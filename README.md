@@ -32,7 +32,7 @@ Mensagem para chamar atenção, coloque o "importante" em inglês.
 
 <br/>
 
-<a id="Introdução a escrita no GitHub"></a>
+<a id="Introdução"></a>
 #### 🧩 Introdução a escrita no GitHub
 O Markdown é uma linguagem fácil de ler e de gravar para formatar texto sem formatação. Você pode usar a sintaxe Markdown, juntamente com algumas marcas HTML adicionais, para formatar a gravação em GitHub, em locais como LEIAMEs do repositório e comentários sobre pull requests e issues. Neste guia, você aprenderá alguns recursos avançados de formatação criando ou editando um LEIAME do seu perfil do GitHub.
 
@@ -41,7 +41,7 @@ Você pode criar um parágrafo deixando uma linha em branco entre as linhas de t
 
 <br/>
 
-<a id="Exibir conquistas no seu perfil"></a>
+<a id="Conquistas"></a>
 #### 👌 Exibir conquistas no seu perfil 
 - Clique na sua foto
 - Vá em configurações
@@ -51,7 +51,7 @@ Você pode criar um parágrafo deixando uma linha em branco entre as linhas de t
 
 <br/>
 
-<a id="Algumas fontes consultadas"></a>
+<a id="Fontes"></a>
 #### 🌐 Algumas fontes consultadas 
 <br/>
     
@@ -62,6 +62,6 @@ Você pode criar um parágrafo deixando uma linha em branco entre as linhas de t
 
 <br/>
 
-<a id="Creditos"></a>
+<a id="Credito"></a>
 #### 🏆 Créditos
 <div align="left">👧🏽 - ver mais em <a href="https://github.com/angelicakadja">AK</a>.</div>
